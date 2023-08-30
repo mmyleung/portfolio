@@ -3,6 +3,7 @@ import NavBar from './components/NavBar'
 import Home from './pages/Home'
 import OtherProjects from './pages/OtherProjects'
 import TechSwitchProjects from './pages/TechSwitchProjects'
+import './App.css'
 
 function App() {
 
